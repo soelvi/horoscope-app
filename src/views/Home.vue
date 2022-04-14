@@ -8,7 +8,7 @@
 			<select v-model="currentSign">
 				<option v-for="sign in allSigns" :value="sign" :key="sign" > {{ sign }} </option>
 			</select>
-			<!-- <button @click="fetchData">enter sign</button> -->
+			<button @click="fetchData">enter sign</button>
 		</div>
 
 		<div class="horoscope__days">
