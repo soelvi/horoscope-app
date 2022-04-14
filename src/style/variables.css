@@ -1,0 +1,13 @@
+:root {
+	--background: #16253D;
+	--foreground: black;
+	
+	--font-family: 'ZCOOL QingKe HuangYou', monospace;
+	--font-size: 16pt;
+	--font-size-title: 24pt;
+
+	--title-color: #d0e1f9;
+
+	--line-height: 1.5;
+	--padding-bottom: 20px;
+}
