@@ -3,5 +3,6 @@ body {
 	color: var(--foreground);
 	font-size: var(--font-size);
 	font-family: var(--font-family);
-	/* background-image: url('../../public/images/background_app2.jpg'); */
+	background-image: url('../../public/images/background_app2.jpg');
+	background-size: cover;
 }
