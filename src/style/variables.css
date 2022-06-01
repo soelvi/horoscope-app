@@ -4,10 +4,12 @@
 	
 	--font-family: 'ZCOOL QingKe HuangYou', monospace;
 	--font-size: 16pt;
-	--font-size-title: 40pt;
+	--font-size-title: 36pt;
+	--font-size-smaller: 22pt;
 
 	--title-color: #d0e1f9;
 
 	--line-height: 1.5;
-	--padding-bottom: 20px;
+	--padding-bottom: 15px;
+	--padding-bottom-small: 10px;
 }
